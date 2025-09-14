@@ -1,0 +1,209 @@
+{
+    "Week 1": [
+        {
+            "task": "Learn Python basics: variables, data types, input/output",
+            "done": true,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "Practice: Calculator project",
+            "done": true
+        },
+        {
+            "task": "Practice: Area of Circle project",
+            "done": true
+        },
+        {
+            "task": "Practice: Swap Numbers project",
+            "done": true,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "fun game",
+            "done": true,
+            "done_date": "2025-09-15"
+        }
+    ],
+    "Week 2": [
+        {
+            "task": "Learn conditions (if/else), loops (for/while)",
+            "done": false,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "Practice: Even/Odd Checker",
+            "done": true
+        },
+        {
+            "task": "Practice: Multiplication Table",
+            "done": true
+        },
+        {
+            "task": "Practice: Factorial using loop",
+            "done": true
+        }
+    ],
+    "Week 3": [
+        {
+            "task": "Functions: define, arguments, return values",
+            "done": false,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "Strings: slicing, methods (upper, lower, replace)",
+            "done": true
+        },
+        {
+            "task": "Mini Project: Palindrome Checker",
+            "done": true
+        },
+        {
+            "task": "Mini Project: Reverse String Tool",
+            "done": true
+        }
+    ],
+    "Week 4": [
+        {
+            "task": "Data Structures: list, dict, set, tuple",
+            "done": false,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "Mini Project: Student Marks Dictionary",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Remove Duplicates Tool",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Word Frequency Counter",
+            "done": false
+        }
+    ],
+    "Week 5": [
+        {
+            "task": "OOP Basics: class, object, constructor (__init__)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Bank Account System",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Student Class with Grades",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Shape Classes (Circle, Rectangle)",
+            "done": false
+        }
+    ],
+    "Week 6": [
+        {
+            "task": "File Handling (open/read/write), Error Handling (try/except)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Password Strength Checker",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Save & Load Notes to File",
+            "done": false
+        }
+    ],
+    "Week 7": [
+        {
+            "task": "Modules & Libraries: math, os, random",
+            "done": false
+        },
+        {
+            "task": "Virtual Environments (venv)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: To-Do List (file-based)",
+            "done": false
+        }
+    ],
+    "Week 8": [
+        {
+            "task": "Mini Project Week!",
+            "done": false,
+            "done_date": "2025-09-15"
+        },
+        {
+            "task": "Snake-Water-Gun Game \ud83c\udfae",
+            "done": false
+        },
+        {
+            "task": "Contact Book App",
+            "done": false
+        },
+        {
+            "task": "Final Revision of Python Basics",
+            "done": false
+        }
+    ],
+    "Week 9": [
+        {
+            "task": "Cybersecurity Basics: threats, exploits, CIA Triad",
+            "done": false
+        },
+        {
+            "task": "Networking Basics: TCP/IP, ports, DNS",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Cybersecurity Notes Repo (GitHub)",
+            "done": false
+        }
+    ],
+    "Week 10": [
+        {
+            "task": "Python for Cybersecurity: regex, log parsing",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Port Scanner (socket)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Log File Analyzer (regex)",
+            "done": false
+        }
+    ],
+    "Week 11": [
+        {
+            "task": "Security Automation: phishing URL detector (regex/ML)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: File Integrity Checker (hashlib)",
+            "done": false
+        },
+        {
+            "task": "Mini Project: Weak Password Detector",
+            "done": false
+        }
+    ],
+    "Week 12": [
+        {
+            "task": "Advanced Security: Microsoft Sentinel, Azure Policy, Zero Trust",
+            "done": false
+        },
+        {
+            "task": "Capstone Project: Phishing URL Detection System",
+            "done": false
+        },
+        {
+            "task": "Capstone Project: Network Security Analyzer",
+            "done": false
+        },
+        {
+            "task": "Capstone Project: Security Dashboard (Streamlit)",
+            "done": false
+        }
+    ]
+}
